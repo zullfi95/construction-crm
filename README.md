@@ -6,6 +6,8 @@
 
 **CRM and company website for a construction company.** One system where every client request moves from department to department until the deal is closed — for private clients and public tenders alike.
 
+Product page: [sci-fi.az/en/products/crm-panels](https://sci-fi.az/en/products/crm-panels)
+
 ## Who it's for
 
 Construction and renovation companies where a single job passes through several teams — call centre, sales, engineering, management, finance — and where management needs to see where each deal is and how long it has been there.
